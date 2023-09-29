@@ -1,7 +1,6 @@
-# Que-sensores-tiene-su-smartphone-v-a-APP
-Que sensores tiene su smartphone vía APP
 # Tabulador de Sensores del Samsung Galaxy S10 Plus
 
+![Samsung Galaxy S10 Plus](https://i.blogs.es/388790/ofi-03/840_560.jpg)
 ## Descarga de Aplicaciones
 - **Android**: [Sensor box](https://play.google.com/store/apps/details?id=link_a_la_app_en_play_store) 🤖
 - **iPhone**: [Sensor-app](https://apps.apple.com/link_a_la_app_en_app_store) 🍎
@@ -33,7 +32,41 @@ Que sensores tiene su smartphone vía APP
    - **Uso Común**: Ajuste automático del brillo de la pantalla.
    - **Captura de pantalla**: [Ver captura](link_a_la_captura)
 
-... (agrega otros sensores según sea necesario)
+6. **Sensor de Presión Atmosférica** 🌡️
+   - **Descripción**: El sensor de presión atmosférica mide la presión barométrica y se utiliza para calcular la altitud.
+   - **Uso Común**: Aplicaciones de pronóstico del tiempo, aplicaciones de altitud.
+   - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+7. **Sensor de Pasos** 🚶
+   - **Descripción**: El sensor de pasos registra los pasos dados por el usuario y se utiliza en aplicaciones de seguimiento de actividad física.
+   - **Uso Común**: Conteo de pasos, aplicaciones de salud.
+   - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+8. **Sensor de Latidos Cardíacos** 💓
+   - **Descripción**: El sensor de latidos cardíacos mide la frecuencia cardíaca del usuario y se utiliza en aplicaciones de salud y fitness.
+   - **Uso Común**: Monitoreo de la frecuencia cardíaca, aplicaciones de entrenamiento.
+   - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+9. **GPS** 🌍
+   - **Descripción**: El GPS permite la ubicación y el seguimiento del dispositivo en tiempo real utilizando señales de satélites.
+   - **Uso Común**: Navegación, seguimiento de ubicación.
+   - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+10. **Sensor de Aceleración Lineal** 📈
+    - **Descripción**: El sensor de aceleración lineal mide la aceleración sin tener en cuenta la gravedad.
+    - **Uso Común**: Aplicaciones de movimiento, juegos.
+    - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+11. **Sensor de Gravedad** 🌎
+    - **Descripción**: El sensor de gravedad mide la fuerza gravitatoria en el dispositivo.
+    - **Uso Común**: Cambio de orientación de la pantalla, aplicaciones de simulación.
+    - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
+12. **Sensor de Inducción Magnética** 🔌
+    - **Descripción**: El sensor de inducción magnética detecta la presencia de campos magnéticos cambiantes, utilizado en aplicaciones de detección de objetos magnéticos.
+    - **Uso Común**: Detección de objetos magnéticos, aplicaciones de brújula mejoradas.
+    - **Captura de pantalla**: [Ver captura](link_a_la_captura)
+
 
 ---
 
